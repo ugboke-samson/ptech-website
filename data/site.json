@@ -19,7 +19,7 @@
       "url": "https://youtube.com/"
     }
   ],
-  "hero_image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1600&q=80",
+  "hero_image": "/images/uploads/whatsapp-image-2026-11-06-at-6.25.06-am-3-.jpeg",
   "hero_title": "LUXURY WELLNESS SPAS & CERTIFIED ELECTRICAL ENGINEERING",
   "hero_subtitle": "Custom-built sauna and steam rooms, residential and commercial electrical installations, and genuine electrical materials across Lagos and Nigeria.",
   "about_text": "At PTECH Electrical Ltd (RC 8550305), we combine precision electrical engineering with luxury wellness craftsmanship. Whether we are designing custom cedar saunas and steam rooms for homes, hotels, and spas, executing complete building wiring, or supplying certified electrical materials, every project is built to international safety and durability standards.",
@@ -28,14 +28,14 @@
       "title": "Custom Sauna Rooms",
       "tagline": "Nordic Wood & Heaters",
       "description": "Bespoke indoor and outdoor dry saunas fitted with commercial-grade heaters, digital controls, and heat-treated timber.",
-      "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=80",
+      "image": "/images/uploads/whatsapp-image-2026-11-06-at-6.25.06-am-3-.jpeg",
       "custom_link": ""
     },
     {
       "title": "Luxury Steam Rooms",
       "tagline": "Spa-Grade Steam Generators",
       "description": "Complete waterproof steam room builds with high-output steam generators, aromatherapy diffusers, and tempered glass enclosures.",
-      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "image": "/images/uploads/whatsapp-image-2026-11-06-at-6.25.06-am-2-.jpeg",
       "custom_link": ""
     },
     {
@@ -70,7 +70,7 @@
   "gallery": [
     {
       "caption": "Custom Cedar Sauna Installation — Lagos",
-      "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=80"
+      "image": "/images/uploads/whatsapp-image-2026-11-06-at-6.25.05-am.jpeg"
     },
     {
       "caption": "Commercial Distribution Board & Wiring Setup",
