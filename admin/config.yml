@@ -44,9 +44,10 @@ collections:
             fields:
               - { label: "Project Caption", name: "caption", widget: "string" }
               - { label: "Project Photo", name: "image", widget: "image" }
-          - label: "Project Videos (YouTube Links)"
+          - label: "Project Videos (Upload MP4 or Paste YouTube Link)"
             name: "videos"
             widget: "list"
             fields:
               - { label: "Video Title", name: "title", widget: "string" }
-              - { label: "YouTube Video URL", name: "youtube_url", widget: "string" }
+              - { label: "Upload MP4 Video (Keep under 25MB)", name: "video_file", widget: "file", required: false }
+              - { label: "OR Paste YouTube Video URL", name: "youtube_url", widget: "string", required: false }
