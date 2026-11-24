@@ -1,0 +1,51 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "site_content"
+    label: "Website Content"
+    files:
+      - label: "Homepage, Photos, Videos & Links"
+        name: "homepage"
+        file: "data/site.json"
+        fields:
+          - { label: "Phone Number", name: "phone", widget: "string" }
+          - { label: "WhatsApp Number (digits only, e.g. 2348034716699)", name: "whatsapp_number", widget: "string" }
+          - { label: "Office Address", name: "address", widget: "string" }
+          - { label: "Business Hours", name: "hours", widget: "string" }
+          - { label: "Price List / Catalog Link (Google Drive PDF or WhatsApp)", name: "catalog_link", widget: "string" }
+          - label: "Social Media Links"
+            name: "social_links"
+            widget: "list"
+            fields:
+              - { label: "Platform Name (e.g. Instagram, Facebook)", name: "platform", widget: "string" }
+              - { label: "Profile URL", name: "url", widget: "string" }
+          - { label: "Top Banner Background Photo", name: "hero_image", widget: "image" }
+          - { label: "Main Banner Headline", name: "hero_title", widget: "string" }
+          - { label: "Main Banner Subtitle", name: "hero_subtitle", widget: "text" }
+          - { label: "About PTECH Paragraph", name: "about_text", widget: "text" }
+          - label: "Our Solutions (Cards)"
+            name: "services"
+            widget: "list"
+            fields:
+              - { label: "Service Title", name: "title", widget: "string" }
+              - { label: "Short Tagline", name: "tagline", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+              - { label: "Service Photo", name: "image", widget: "image" }
+              - { label: "Optional Custom Link (Leave blank to use WhatsApp)", name: "custom_link", widget: "string", required: false }
+          - label: "Project Gallery Photos"
+            name: "gallery"
+            widget: "list"
+            fields:
+              - { label: "Project Caption", name: "caption", widget: "string" }
+              - { label: "Project Photo", name: "image", widget: "image" }
+          - label: "Project Videos (YouTube Links)"
+            name: "videos"
+            widget: "list"
+            fields:
+              - { label: "Video Title", name: "title", widget: "string" }
+              - { label: "YouTube Video URL", name: "youtube_url", widget: "string" }

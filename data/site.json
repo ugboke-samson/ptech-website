@@ -1,0 +1,84 @@
+{
+  "phone": "+234 803 471 6699",
+  "whatsapp_number": "2348034716699",
+  "address": "Egbeda, Lagos, Nigeria",
+  "hours": "Mon–Sat 8:00am–7:00pm · Sunday by appointment",
+  "catalog_link": "https://wa.me/2348034716699?text=Hello%20PTECH%2C%20please%20send%20me%20your%20latest%20product%20price%20list.",
+  "social_links": [
+    { "platform": "Instagram", "url": "https://instagram.com/" },
+    { "platform": "Facebook", "url": "https://facebook.com/" },
+    { "platform": "YouTube", "url": "https://youtube.com/" }
+  ],
+  "hero_image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1600&q=80",
+  "hero_title": "LUXURY WELLNESS SPAS & CERTIFIED ELECTRICAL ENGINEERING",
+  "hero_subtitle": "Custom-built sauna and steam rooms, residential and commercial electrical installations, and genuine electrical materials across Lagos and Nigeria.",
+  "about_text": "At PTECH Electrical Ltd (RC 8550305), we combine precision electrical engineering with luxury wellness craftsmanship. Whether we are designing custom cedar saunas and steam rooms for homes, hotels, and spas, executing complete building wiring, or supplying certified electrical materials, every project is built to international safety and durability standards.",
+  "services": [
+    {
+      "title": "Custom Sauna Rooms",
+      "tagline": "Nordic Wood & Heaters",
+      "description": "Bespoke indoor and outdoor dry saunas fitted with commercial-grade heaters, digital controls, and heat-treated timber.",
+      "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=80",
+      "custom_link": ""
+    },
+    {
+      "title": "Luxury Steam Rooms",
+      "tagline": "Spa-Grade Steam Generators",
+      "description": "Complete waterproof steam room builds with high-output steam generators, aromatherapy diffusers, and tempered glass enclosures.",
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "custom_link": ""
+    },
+    {
+      "title": "Electrical Installations",
+      "tagline": "Residential, Commercial & Industrial",
+      "description": "Full building conduit and surface wiring, distribution board setup, earthing systems, and safety inspections by certified engineers.",
+      "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=800&q=80",
+      "custom_link": ""
+    },
+    {
+      "title": "Electrical Materials Supply",
+      "tagline": "100% Original Cables & Switchgear",
+      "description": "Bulk and retail supply of armored and non-armored cables, breakers, sockets, lighting fixtures, and industrial accessories.",
+      "image": "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?auto=format&fit=crop&w=800&q=80",
+      "custom_link": ""
+    },
+    {
+      "title": "Backup Power & Inverters",
+      "tagline": "Uninterrupted Power Solutions",
+      "description": "Clean solar inverter installations, automatic changeover switches, and load balancing tailored for homes and offices.",
+      "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=800&q=80",
+      "custom_link": ""
+    },
+    {
+      "title": "Maintenance & Repairs",
+      "tagline": "Fast Diagnostics & Servicing",
+      "description": "Sauna heater servicing, steam generator descaling, fault tracing, and electrical system upgrades across Lagos.",
+      "image": "https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=800&q=80",
+      "custom_link": ""
+    }
+  ],
+  "gallery": [
+    {
+      "caption": "Custom Cedar Sauna Installation — Lagos",
+      "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "caption": "Commercial Distribution Board & Wiring Setup",
+      "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "caption": "Certified Cables & Switchgear Supply — Egbeda",
+      "image": "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Sauna & Steam Room Walkthrough",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "title": "Industrial Electrical Panel Installation",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ]
+}
