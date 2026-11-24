@@ -1,23 +1,14 @@
 {
-  "logo": "/images/uploads/pp.jpg",
+  "logo": "logo.jpg",
   "phone": "+234 803 471 6699",
   "whatsapp_number": "2348034716699",
   "address": "Egbeda, Lagos, Nigeria",
   "hours": "Mon–Sat 8:00am–7:00pm · Sunday by appointment",
   "catalog_link": "https://wa.me/2348034716699?text=Hello%20PTECH%2C%20please%20send%20me%20your%20latest%20product%20price%20list.",
   "social_links": [
-    {
-      "platform": "Instagram",
-      "url": "https://instagram.com/"
-    },
-    {
-      "platform": "Facebook",
-      "url": "https://facebook.com/"
-    },
-    {
-      "platform": "YouTube",
-      "url": "https://youtube.com/"
-    }
+    { "platform": "Instagram", "url": "https://instagram.com/" },
+    { "platform": "Facebook", "url": "https://facebook.com/" },
+    { "platform": "YouTube", "url": "https://youtube.com/" }
   ],
   "hero_image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1600&q=80",
   "hero_title": "LUXURY WELLNESS SPAS & CERTIFIED ELECTRICAL ENGINEERING",
@@ -83,14 +74,14 @@
   ],
   "videos": [
     {
-      "title": "🔥 LUXURY 8-10 PERSON SAUNA — COMPLETED! 🔥 spacious and beautiful",
+      "title": "Sauna & Steam Room Walkthrough",
       "video_file": "",
-      "youtube_url": "https://youtube.com/shorts/Gz_hUjWUTc8?si=HaNzMdQbQCv1tXSG"
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "title": "Suana room walkthrough",
+      "title": "Industrial Electrical Panel Installation",
       "video_file": "",
-      "youtube_url": "https://youtube.com/shorts/mphtprjD-h4?si=BnHd-7nEpvlbU8wa"
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ]
 }
